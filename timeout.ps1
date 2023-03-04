@@ -1,4 +1,3 @@
-# Credits By github.com/EfeMethoder
 $i = 2147483
 do {
     Write-Host $i
